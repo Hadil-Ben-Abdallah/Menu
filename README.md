@@ -3,6 +3,6 @@ Creative Menu Hover Text Animation Effects using Html & CSS.
 
 <a href="https://codepen.io/Hadil-Ben-Abdallah/pen/ExqgOyp">Demo 🎞</a>
 
-If you like it, you're welcome to fork it 😊
+Feel free to customize it further based on your experience! 😊
 
 
